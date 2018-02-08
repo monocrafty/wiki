@@ -6,38 +6,38 @@ koto.cash (@koto.cash#9562)
 
 
 ## 1. 代行責任者/Discord運営（Acting）
-#### 責任者 (director)
+#### 責任者 (Director)
 Kotohodler (@kotohodler#0970)  
-#### メンバー (member)
+#### メンバー (Member)
 Mon_chi (@もぐら#1629)
 
 
 
-## 2. PRチーム (public relations)
+## 2. PRチーム (Public relations)
 各言語チャンネルの対応を主に担当する。 ("PR-team" mainly support correspond of each language channel.)  
-#### 責任者 (director)
+#### 責任者 (Director)
 wangwang (@wangwang#6440) 英語と中国語を担当。 ("wangwang-san" supports English and Chinese.)
-#### メンバー (member)
+#### メンバー (Member)
 - LimitPlays (@LimitPlays#1844) 英語と中国語を担当。 ("LimitPlays-san" supports English and Chinese.)
 - dr_kw1 (@dr_kw1#5399) 英語チャンネルを担当。技術もできる。 ("dr_kw1-san" supports English. And, he can support dev.)  
 - yoshuya (@yoshuya#6680) 英語チャンネルを担当。limit氏のメッセージを伝えてくれる。 ("yoshuya-san" supports English. And he will convey "limit-san" message.)  
 
 
 
-## 3. デスクチーム (desk)
+## 3. デスクチーム (Desk)
 各言語への文書作成やKotoプロジェクトの公文書を作成する。 ("Desk-team" make documents for each language and "Official Documents of Koto project".)  
-#### 責任者 (director)
+#### 責任者 (Director)
 komax_vc (@komax_vc#0819) 日本語Bitcointalkも担当する。 ("komax_vc-san" supports Japanese Bitcointalk.)    
-#### メンバー (member)
+#### メンバー (Member)
 - iToby (@iToby#6085) komax氏の翻訳作業を手伝う。 ("iToby-san" assists "komax_vc-san" translate work.)  
 - hahu (@hahu#4387) komax氏の翻訳作業を手伝う。 ("hahu-san" assists "komax_vc-san" translate work.)  
 
 
 
 ## 4. 開発技術チーム (Development)
-#### 責任者 (director)
+#### 責任者 (Director)
 renium9 (@renium9#7054)
-#### メンバー (member)
+#### メンバー (Member)
 - kotohajime (@kotohajime#2367) webサイト作成担当。 ("kotohajime-san" supports making a offical-website.)  
 - ssmtc (@ssmtc#1270) MakeWallet運営でもある。 ("ssmtc-san" is "MakeWallet" manager.)  
 - dkwzjw (@dkwzjw#6306) ※本人意向によりwinビルドまでのサポート希望。 ("dkwzjw-san" supports until Win build. This is his intention.)  
@@ -48,5 +48,5 @@ renium9 (@renium9#7054)
 
 
 ## 5. 経理チーム (Vault)
-#### 責任者 (Development)
-monocrafty (@monocrafty#3773)
+#### 責任者 (Director)
+monocrafty (@monocrafty#0001)
